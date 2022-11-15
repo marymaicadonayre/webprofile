@@ -1,0 +1,50 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #272829;
+}
+
+a {
+  color: #149ddd;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #37b3ed;
+  text-decoration: none;
+}
+/*h3{
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #F2F0E1;
+}*/
+
+.background{
+  background-color: #FAF7ED;
+/*  border-radius: 5rem;*/
+
+width: 36rem;
+height: 36rem;
+}
+
+.profile{
+  width: 20rem;
+  height: 20rem;
+  border-radius: 20rem;
+}
+
+.bgc-proj{
+  background-color: #F7FCE6;
+}
+
+.fortools{
+   background-color: #F7FCE6;
+}
+
+.bg-form{
+  background-color: #FAF7ED;
+}
+
+.footer{
+  background-color: #E5E4DE;
+}
+
