@@ -52,3 +52,9 @@ height: 36rem;
   background-color: #E5E4DE;
 }
 
+.skills .progress {
+  height: 60px;
+  display: block;
+  background: none;
+  border-radius: 0;
+}
