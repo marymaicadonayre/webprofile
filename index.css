@@ -10,7 +10,11 @@ a {
 
 a:hover {
   color: #37b3ed;
-  text-decoration: none;
+  font-weight: bold;
+}
+.name{
+  color: gray;
+  font: cursive;
 }
 /*h3{
   padding-top: 1rem;
